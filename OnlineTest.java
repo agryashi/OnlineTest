@@ -1,6 +1,6 @@
   
   
-import java.awt.*;  
+import java.awt.*; 
 import java.awt.event.*;  
 import javax.swing.*;  
   
@@ -181,7 +181,7 @@ class OnlineTest extends JFrame implements ActionListener
         return false;  
     }  
     public static void main(String s[])  
-    {  
+    {   //main starts
         new OnlineTest("Online Test Of Java");  
     }  
 }  
